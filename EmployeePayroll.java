@@ -1,4 +1,4 @@
-public class EmployeePayroll{
+class EmployeePayroll{
   public static void main(String[] args){
     String name="Ravi";
     int empId=1001;
