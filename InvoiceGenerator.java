@@ -1,4 +1,4 @@
-public class InvoiceGenerate{
+class InvoiceGenerate{
   public static void main(String[] args){
     String productName="Laptop;
     int quantity=2;
